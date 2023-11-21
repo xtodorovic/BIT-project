@@ -6,6 +6,6 @@
 
 ## Assignment: IPS/IDS Evasion Techniques
 
-- Document [here][docs/pdf.pdf]
+- Document [here](docs/pdf.pdf)
 
-- Prototype [here][prototype/file.txt]
+- Prototype [here](prototype/file.txt)
