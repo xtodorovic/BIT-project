@@ -14,14 +14,14 @@ This Python script is designed to facilitate Nmap scans with customizable option
 1. Clone the repository or download the script.
 
     ```bash
-    git clone https://github.com/xtodorovic/nmap-probe.git
-    cd nmap-probe
+    git clone https://github.com/xtodorovic/BIT-project
+    cd BIT-project
     ```
 
-2. Run the script.
+2. Run the script in **prototype**.
 
     ```bash
-    python nmap_probe.py
+    python prototype.py
     ```
 
 3. Follow the on-screen prompts to configure your Nmap scan.
