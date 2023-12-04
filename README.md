@@ -8,9 +8,9 @@
 
 - Document [here](docs/BIT_document.pdf)
 
-- Prototype [here](prototype/prototype1.py)
+- Prototype [here](prototype/)
 
-- Testing [here](testing/test1.pdf)
+- Testing [here](testing/)
 
 - Presentation [here](presentation/BIT_presentation.pptx)
 
